@@ -22,7 +22,7 @@ namespace Tank
                 SnakePosition.Add(orignialposition);
                 form1.ButtonClick += KeyInput;
 
-        }
+            }
 
 
 

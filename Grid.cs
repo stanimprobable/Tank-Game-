@@ -13,9 +13,10 @@ namespace Tank
         public int gridx;
         private Random rand = new Random();
         private Panel panel;
-        Bitmap brick = new Bitmap("C:\\Users\\stanhe\\source\\repos\\Tank\\Tank\\Picture\\brick-2.jpg");
-        Bitmap snake = new Bitmap("C:\\Users\\stanhe\\source\\repos\\Tank\\Tank\\Picture\\Snake.jpg");
-        Bitmap burger = new Bitmap("C:\\Users\\stanhe\\source\\repos\\Tank\\Tank\\Picture\\Burger.jpg");
+        Bitmap brick = new Bitmap("C:\\Users\\stanhe\\source\\repos\\Tank\\Tank\\Tank-Game-\\Picture\\brick-2.jpg");
+        Bitmap snake = new Bitmap("C:\\Users\\stanhe\\source\\repos\\Tank\\Tank\\Tank-Game-\\Picture\\Snake.jpg");
+        Bitmap burger = new Bitmap("C:\\Users\\stanhe\\source\\repos\\Tank\\Tank\\Tank-Game-\\Picture\\Burger.jpg");
+        Bitmap Tank = new Bitmap("C:\\Users\\stanhe\\source\\repos\\Tank\\Tank\\Tank-Game-\\Picture\\tank.png");
         private int size = 10;
 
         private Random r = new Random();

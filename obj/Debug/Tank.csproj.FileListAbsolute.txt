@@ -8,3 +8,12 @@ C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.csproj.GenerateResource.ca
 C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.csproj.CoreCompileInputs.cache
 C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.exe
 C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.pdb
+C:\Users\stanhe\source\repos\Tank\Tank\Tank-Game-\bin\Debug\Tank.exe.config
+C:\Users\stanhe\source\repos\Tank\Tank\Tank-Game-\bin\Debug\Tank.exe
+C:\Users\stanhe\source\repos\Tank\Tank\Tank-Game-\bin\Debug\Tank.pdb
+C:\Users\stanhe\source\repos\Tank\Tank\Tank-Game-\obj\Debug\Tank.Form1.resources
+C:\Users\stanhe\source\repos\Tank\Tank\Tank-Game-\obj\Debug\Tank.Properties.Resources.resources
+C:\Users\stanhe\source\repos\Tank\Tank\Tank-Game-\obj\Debug\Tank.csproj.GenerateResource.cache
+C:\Users\stanhe\source\repos\Tank\Tank\Tank-Game-\obj\Debug\Tank.csproj.CoreCompileInputs.cache
+C:\Users\stanhe\source\repos\Tank\Tank\Tank-Game-\obj\Debug\Tank.exe
+C:\Users\stanhe\source\repos\Tank\Tank\Tank-Game-\obj\Debug\Tank.pdb

@@ -12,10 +12,10 @@ namespace Tank
 {
     public partial class Form1 : Form
     { 
-        static Grid grid = new Grid(new Position(40, 40));
+         Grid grid = new Grid(new Position(40, 40));
         Sanke snake;
-        static List<Food> foods = new List<Food>();
-        static Random rand = new Random();
+         List<Food> foods = new List<Food>();
+         Random rand = new Random();
         public delegate void ButtonClickEventHandler(Click click);
         public event ButtonClickEventHandler ButtonClick;
        
@@ -88,7 +88,7 @@ namespace Tank
             ButtonClick?.Invoke(click);
         }
 
-        static void FoodCreationoperation()
+        void FoodCreationoperation()
         {
             while (foods.Count < 4)
             {
@@ -100,7 +100,7 @@ namespace Tank
         }
 
 
-        static void FoodDestroyoperation(Food food)
+        void FoodDestroyoperation(Food food)
         {
             foods.Remove(food);
         }
