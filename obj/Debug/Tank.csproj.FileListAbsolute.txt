@@ -1,0 +1,10 @@
+C:\Users\stanhe\source\repos\Tank\Tank\bin\Debug\Tank.exe.config
+C:\Users\stanhe\source\repos\Tank\Tank\bin\Debug\Tank.exe
+C:\Users\stanhe\source\repos\Tank\Tank\bin\Debug\Tank.pdb
+C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.csprojAssemblyReference.cache
+C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.Form1.resources
+C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.Properties.Resources.resources
+C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.csproj.GenerateResource.cache
+C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.csproj.CoreCompileInputs.cache
+C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.exe
+C:\Users\stanhe\source\repos\Tank\Tank\obj\Debug\Tank.pdb
